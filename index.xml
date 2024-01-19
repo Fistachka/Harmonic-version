@@ -2,11 +2,11 @@
 <level>
   <owner>Fistachka</owner>
   <repo>Harmonic-version</repo>
-  <version>v1.0.2</version>
+  <version>v1.0.3</version>
   <next number="1" owner="stolbitsa" repo="dominant"/>
   <readme>
-    <ru>e0eb9268592791cc80c7b39bfe3751fe17221b9c1036cf8e5c934c453d48dc84</ru>
-    <en>80ad605390656cc00a8f0d22348d66291b7ba45c2319c8662d0816127168308a</en>
+    <ru>0f48078a56f95519fa2d34a791444c997c5bbb1e9747db840b7049deb5bebb2e</ru>
+    <en>73d89ddf94480fad4fc246917dc4d9c93ed7a972e0b8b3cf6eb1ffddcb664cd0</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
