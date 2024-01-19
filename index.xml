@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <level>
   <owner>Fistachka</owner>
-  <repo>harmonic-version</repo>
-  <version>v1.0.0</version>
+  <repo>Harmonic-version</repo>
+  <version>v1.0.1</version>
   <next number="1" owner="stolbitsa" repo="dominant"/>
   <readme>
     <ru>e0eb9268592791cc80c7b39bfe3751fe17221b9c1036cf8e5c934c453d48dc84</ru>
